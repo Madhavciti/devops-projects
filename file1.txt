@@ -1,1 +1,2 @@
 i am text file
+first line inserted
